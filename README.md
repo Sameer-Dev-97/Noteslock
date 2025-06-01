@@ -1,6 +1,4 @@
 # Noteslock
-# NotesLock
-
 **An Android application that keeps all your notes securely password-protected using biometric authentication.**
 
 ## 📱 Overview
